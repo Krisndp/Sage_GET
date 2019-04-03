@@ -1,0 +1,3 @@
+rootProject.name = 'saga2'
+
+include ':app'
